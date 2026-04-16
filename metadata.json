@@ -1,0 +1,5 @@
+{
+  "name": "Yahoo Login Replica",
+  "description": "A pixel-accurate, 2-step sign-in interface replica of Yahoo Mail.",
+  "requestFramePermissions": []
+}
